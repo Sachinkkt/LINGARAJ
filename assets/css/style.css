@@ -16,7 +16,7 @@ body {
     justify-content: center;
     line-height: 0.5em;
     max-width: 80%;
-    min-width: 140px;
+    min-width: 50px;
     padding: 15px 20px;
     text-decoration: none;
     user-select: none;
