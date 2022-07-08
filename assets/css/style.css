@@ -12,12 +12,12 @@ body {
     color: #FFFFFF;
     display: flex;
     font-family: Phantomsans, sans-serif;
-    font-size: 10px;
+    font-size: 5px;
     justify-content: center;
-    line-height: 0.5em;
-    max-width: 40%;
+    /* line-height: 0.5em; */
+    max-width: 30%;
     min-width: 50px;
-    padding: 10px 15px;
+    padding: 10px 10px;
     text-decoration: none;
     user-select: none;
     -webkit-user-select: none;
