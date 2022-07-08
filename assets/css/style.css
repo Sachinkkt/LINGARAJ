@@ -13,7 +13,7 @@ body {
     display: flex;
     font-family: Phantomsans, sans-serif;
     font-size: 5px;
-    justify-content: center;
+    justify-content:space-around;
     /* line-height: 0.5em; */
     max-width: 30%;
     min-width: 50px;
